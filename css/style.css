@@ -1,0 +1,25 @@
+body{
+    margin: 4%;
+}
+h2{
+    text-align: center;
+}
+
+header{
+    background: #00a2ff;
+    padding-bottom: 15px;
+}
+
+section{
+    display: block;
+}
+
+h3{
+    background: #00eeff;
+}
+footer{
+    background: #00a2ff;
+    clear: both;    
+    text-align: center;
+}
+
